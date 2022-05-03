@@ -1,7 +1,7 @@
 # Base image frpm:
 # https://github.com/jupyter/docker-stacks
 # https://hub.docker.com/r/jupyter/datascience-notebook/tags
-FROM jupyter/datascience-notebook:cf5a7ab55638
+FROM jupyter/datascience-notebook:81a93d20ba4d
 
 # Install Tensorflow
 # Based on: https://github.com/jupyter/docker-stacks/blob/master/tensorflow-notebook/Dockerfile
